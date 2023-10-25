@@ -17,6 +17,11 @@ body{
     background-color: #ffffff;
 }
 
+.address-link {
+    text-decoration: none;
+    font-style: normal;
+}
+
 /*NAVIGATION*/
 .logo{
     font-family: 'Raleway',sans-serif;
@@ -56,7 +61,6 @@ body{
 
 
 .address-link{
-text-decoration: none;
 font-family: 'Roboto', sans-serif;
 font-size: 16px;
 font-style: normal;
