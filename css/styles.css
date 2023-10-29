@@ -17,6 +17,10 @@ body{
     background-color: #ffffff;
 }
 
+.address-list-link{
+    font-style: normal;
+}
+
 .address-link {
     text-decoration: none;
     font-style: normal;
