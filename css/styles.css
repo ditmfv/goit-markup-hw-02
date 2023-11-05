@@ -185,7 +185,7 @@ color: #434455;
     padding: 120px 0;
     width: calc((100% - 72px) / 4);
 }
-.vis-hidden{
+.visually-hidden{
     position: absolute;
     width: 1px;
     height: 1px;
@@ -232,7 +232,16 @@ color: #434455;
 }
 
 /*our team*/
-
+.sec-title-three{
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    margin-bottom: 72px;
+    }
+}
 .section-team{
     background-color: #F4F4FD;
     color: #2E2F42;
