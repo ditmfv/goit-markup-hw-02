@@ -213,6 +213,9 @@ color: #434455;
     display: flex;
     justify-content: space-between;
 }
+.comp-desk-list-item{
+    width: calc((100% - 72px) / 4);
+}
 .add-title{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
